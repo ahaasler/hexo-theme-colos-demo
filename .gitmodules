@@ -1,0 +1,3 @@
+[submodule "themes/colos"]
+	path = themes/colos
+	url = https://github.com/ahaasler/hexo-theme-colos.git
