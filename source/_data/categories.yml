@@ -1,0 +1,9 @@
+news:
+  en:
+    name: News
+    slug: news
+    category: news
+  es:
+    name: Noticias
+    slug: noticias
+    category: noticias
