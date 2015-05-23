@@ -1,9 +1,9 @@
-news:
+book:
   en:
-    name: News
-    slug: news
-    category: news
+    name: Books
+    slug: book
+    category: book
   es:
-    name: Noticias
-    slug: noticias
-    category: noticias
+    name: Libros
+    slug: libro
+    category: libro
