@@ -5,7 +5,7 @@
 		<title>Colos</title>
 		<link>http://colos.adrianhaasler.com/es/</link>
 		<atom:link href="http://colos.adrianhaasler.com/es/feed.xml" rel="self" type="application/rss+xml"/>
-		<description></description>
+		<description>Un tema para Hexo</description>
 		<language>es</language>
 		<pubDate>Tue, 26 May 2015 19:22:57 GMT</pubDate>
 		<lastBuildDate>Sat, 20 Jun 2015 15:01:07 GMT</lastBuildDate>
