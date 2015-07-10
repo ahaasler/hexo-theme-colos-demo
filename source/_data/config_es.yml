@@ -1,3 +1,6 @@
 # Site
 subtitle: Un tema para Hexo
 description: Un tema para Hexo
+
+# Pagination
+pagination_dir: pagina
