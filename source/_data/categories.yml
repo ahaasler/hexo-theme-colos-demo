@@ -7,3 +7,12 @@ book:
     name: Libros
     slug: libro
     category: libro
+code:
+  en:
+    name: Code
+    slug: code
+    category: code
+  es:
+    name: Código
+    slug: codigo
+    category: codigo
