@@ -7,9 +7,28 @@
 		<atom:link href="http://colos.adrianhaasler.com/en/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A Hexo theme</description>
 		<language>en</language>
-		<pubDate>Sat, 01 Aug 2015 14:45:03 GMT</pubDate>
-		<lastBuildDate>Sat, 01 Aug 2015 14:49:06 GMT</lastBuildDate>
+		<pubDate>Sat, 01 Aug 2015 15:44:39 GMT</pubDate>
+		<lastBuildDate>Sat, 01 Aug 2015 15:47:16 GMT</lastBuildDate>
 		<generator>Hexo v3.1.1</generator>
+		
+		<item>
+			<title>Ruby: Hello, World!</title>
+			<link>http://colos.adrianhaasler.com/en/code/ruby-hello-world/</link>
+			<guid>http://colos.adrianhaasler.com/en/code/ruby-hello-world/</guid>
+			<pubDate>Sat, 01 Aug 2015 15:44:39 GMT</pubDate>
+			<description>
+			
+				&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span clas
+			
+			</description>
+			<content:encoded>&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;puts &lt;span class=&quot;string&quot;&gt;&#39;Hello, World!&#39;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+</content:encoded>
+			
+				<category>code</category>
+			
+			
+			<comments>http://colos.adrianhaasler.com/en/code/ruby-hello-world/#disqus_comments</comments>
+		</item>
 		
 		<item>
 			<title>Bash: Hello, World!</title>
