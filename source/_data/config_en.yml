@@ -1,3 +1,6 @@
 # Site
 subtitle: A Hexo theme
 description: A Hexo theme
+
+# Date / time format
+post_date_format: LL

@@ -4,3 +4,6 @@ description: Un tema para Hexo
 
 # Pagination
 pagination_dir: pagina
+
+# Date / time format
+post_date_format: D [de] MMMM [del] YYYY
