@@ -4,7 +4,7 @@
   <subtitle xml:lang="es">Un tema para Hexo</subtitle>
   <link href="http://colos.adrianhaasler.com/es/atom.xml" rel="self"/>
   <link href="http://colos.adrianhaasler.com/"/>
-  <updated>2015-08-15T05:04:34.000Z</updated>
+  <updated>2015-09-13T13:34:12.000Z</updated>
   <id>http://colos.adrianhaasler.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://colos.adrianhaasler.com/es/codigo/js-hola-mundo/"/>
     <id>http://colos.adrianhaasler.com/es/codigo/js-hola-mundo/</id>
     <published>2015-08-15T06:03:08.000Z</published>
-    <updated>2015-08-15T05:04:34.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;document&lt;/span&gt;.write(&lt;span class=&quot;string&quot;&gt;&#39;¡Hola Mundo!&#39;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
     <summary type="html" xml:lang="es">
@@ -38,7 +38,7 @@
     <link href="http://colos.adrianhaasler.com/es/codigo/groovy-hola-mundo/"/>
     <id>http://colos.adrianhaasler.com/es/codigo/groovy-hola-mundo/</id>
     <published>2015-08-01T20:03:22.000Z</published>
-    <updated>2015-08-02T09:43:51.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;figure class=&quot;highlight groovy&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;println &lt;span class=&quot;string&quot;&gt;&quot;¡Hola Mundo!&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
     <summary type="html" xml:lang="es">
@@ -57,7 +57,7 @@
     <link href="http://colos.adrianhaasler.com/es/codigo/ruby-hola-mundo/"/>
     <id>http://colos.adrianhaasler.com/es/codigo/ruby-hola-mundo/</id>
     <published>2015-08-01T15:44:52.000Z</published>
-    <updated>2015-08-01T15:48:27.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;figure class=&quot;highlight ruby&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;puts &lt;span class=&quot;string&quot;&gt;&#39;¡Hola Mundo!&#39;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
     <summary type="html" xml:lang="es">
@@ -76,7 +76,7 @@
     <link href="http://colos.adrianhaasler.com/es/codigo/bash-hola-mundo/"/>
     <id>http://colos.adrianhaasler.com/es/codigo/bash-hola-mundo/</id>
     <published>2015-08-01T14:45:15.000Z</published>
-    <updated>2015-08-01T14:47:02.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;shebang&quot;&gt;#!/bin/bash&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;built_in&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;string&quot;&gt;&quot;¡Hola Mundo!&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
     <summary type="html" xml:lang="es">
@@ -95,7 +95,7 @@
     <link href="http://colos.adrianhaasler.com/es/codigo/java-hola-mundo/"/>
     <id>http://colos.adrianhaasler.com/es/codigo/java-hola-mundo/</id>
     <published>2015-08-01T14:32:14.000Z</published>
-    <updated>2015-08-01T14:37:50.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;HelloWorld&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(String[] args)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;		System.out.println(&lt;span class=&quot;string&quot;&gt;&quot;¡Hola Mundo!&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
     <summary type="html" xml:lang="es">
@@ -114,7 +114,7 @@
     <link href="http://colos.adrianhaasler.com/es/libro/don-quijote-IV/"/>
     <id>http://colos.adrianhaasler.com/es/libro/don-quijote-IV/</id>
     <published>2015-05-26T19:22:57.000Z</published>
-    <updated>2015-06-20T15:01:07.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;p&gt;La del alba sería cuando don Quijote salió de la venta, tan contento, tan gallardo, tan alborozado por verse ya armado caballero, que el gozo le reventaba por las cinchas del caballo. Mas, viniéndole a la memoria los consejos de su huésped cerca de las prevenciones tan necesarias que había de llevar consigo, especial la de los dineros y camisas, determinó volver a su casa y acomodarse de todo, y de un escudero, haciendo cuenta de recebir a un labrador vecino suyo, que era pobre y con hijos, pero muy a propósito para el oficio escuderil de la caballería. Con este pensamiento guió a Rocinante hacia su aldea, el cual, casi conociendo la querencia, con tanta gana comenzó a caminar, que parecía que no ponía los pies en el suelo.&lt;/p&gt;
 &lt;p&gt;No había andado mucho, cuando le pareció que a su diestra mano, de la espesura de un bosque que allí estaba, salían unas voces delicadas, como de persona que se quejaba; y apenas las hubo oído, cuando dijo:&lt;/p&gt;
 &lt;p&gt;-Gracias doy al cielo por la merced que me hace, pues tan presto me pone ocasiones delante donde yo pueda cumplir con lo que debo a mi profesión, y donde pueda coger el fruto de mis buenos deseos. Estas voces, sin duda, son de algún menesteroso o menesterosa, que ha menester mi favor y ayuda.&lt;/p&gt;
@@ -176,7 +176,7 @@
     <link href="http://colos.adrianhaasler.com/es/libro/don-quijote-III/"/>
     <id>http://colos.adrianhaasler.com/es/libro/don-quijote-III/</id>
     <published>2015-05-25T23:04:57.000Z</published>
-    <updated>2015-08-02T09:41:49.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;p&gt;Y así, fatigado deste pensamiento, abrevió su venteril y limitada cena; la cual acabada, llamó al ventero, y, encerrándose con él en la caballeriza, se hincó de rodillas ante él, diciéndole:&lt;/p&gt;
 &lt;p&gt;-No me levantaré jamás de donde estoy, valeroso caballero, fasta que la vuestra cortesía me otorgue un don que pedirle quiero, el cual redundará en alabanza vuestra y en pro del género humano.&lt;/p&gt;
 &lt;p&gt;El ventero, que vio a su huésped a sus pies y oyó semejantes razones, estaba confuso mirándole, sin saber qué hacerse ni decirle, y porfiaba con él que se levantase, y jamás quiso, hasta que le hubo de decir que él le otorgaba el don que le pedía.&lt;/p&gt;
@@ -220,7 +220,7 @@
     <link href="http://colos.adrianhaasler.com/es/libro/don-quijote-II/"/>
     <id>http://colos.adrianhaasler.com/es/libro/don-quijote-II/</id>
     <published>2015-05-24T12:28:45.000Z</published>
-    <updated>2015-06-20T15:01:07.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;p&gt;Hechas, pues, estas prevenciones, no quiso aguardar más tiempo a poner en efecto su pensamiento, apretándole a ello la falta que él pensaba que hacía en el mundo su tardanza, según eran los agravios que pensaba deshacer, tuertos que enderezar, sinrazones que emendar, y abusos que mejorar y deudas que satisfacer. Y así, sin dar parte a persona alguna de su intención, y sin que nadie le viese, una mañana, antes del día, que era uno de los calurosos del mes de julio, se armó de todas sus armas, subió sobre Rocinante, puesta su mal compuesta celada, embrazó su adarga, tomó su lanza, y, por la puerta falsa de un corral, salió al campo con grandísimo contento y alborozo de ver con cuánta facilidad había dado principio a su buen deseo. Mas, apenas se vio en el campo, cuando le asaltó un pensamiento terrible, y tal, que por poco le hiciera dejar la comenzada empresa; y fue que le vino a la memoria que no era armado caballero, y que, conforme a ley de caballería, ni podía ni debía tomar armas con ningún caballero; y, puesto que lo fuera, había de llevar armas blancas, como novel caballero, sin empresa en el escudo, hasta que por su esfuerzo la ganase. Estos pensamientos le hicieron titubear en su propósito; mas, pudiendo más su locura que otra razón alguna, propuso de hacerse armar caballero del primero que topase, a imitación de otros muchos que así lo hicieron, según él había leído en los libros que tal le tenían. En lo de las armas blancas, pensaba limpiarlas de manera, en teniendo lugar, que lo fuesen más que un armiño; y con esto se quietó y prosiguió su camino, sin llevar otro que aquel que su caballo quería, creyendo que en aquello consistía la fuerza de las aventuras.&lt;/p&gt;
 &lt;p&gt;Yendo, pues, caminando nuestro flamante aventurero, iba hablando consigo mesmo y diciendo:&lt;/p&gt;
 &lt;p&gt;-¿Quién duda sino que en los venideros tiempos, cuando salga a luz la verdadera historia de mis famosos hechos, que el sabio que los escribiere no ponga, cuando llegue a contar esta mi primera salidad tan de mañana, desta manera?: «Apenas había el rubicundo Apolo tendido por la faz de la ancha y espaciosa tierra las doradas hebras de sus hermosos cabellos, y apenas los pequeños y pintados pajarillos con sus arpadas lenguas habían saludado con dulce y meliflua armonía la venida de la rosada aurora, que, dejando la blanda cama del celoso marido, por las puertas y balcones del manchego horizonte a los mortales se mostraba, cuando el famoso caballero don Quijote de la Mancha, dejando las ociosas plumas, subió sobre su famoso caballo Rocinante, y comenzó a caminar por el antiguo y conocido campo de Montiel».&lt;/p&gt;
@@ -268,7 +268,7 @@
     <link href="http://colos.adrianhaasler.com/es/libro/don-quijote-I/"/>
     <id>http://colos.adrianhaasler.com/es/libro/don-quijote-I/</id>
     <published>2015-05-23T17:26:49.000Z</published>
-    <updated>2015-06-20T15:01:07.000Z</updated>
+    <updated>2015-09-13T13:34:12.000Z</updated>
     <content type="html" xml:lang="es">&lt;p&gt;En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda. El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino. Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera. Frisaba la edad de nuestro hidalgo con los cincuenta años; era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza. Quieren decir que tenía el sobrenombre de Quijada, o Quesada, que en esto hay alguna diferencia en los autores que deste caso escriben; aunque, por conjeturas verosímiles, se deja entender que se llamaba Quejana. Pero esto importa poco a nuestro cuento; basta que en la narración dél no se salga un punto de la verdad.&lt;/p&gt;
 &lt;p&gt;Es, pues, de saber que este sobredicho hidalgo, los ratos que estaba ocioso, que eran los más del año, se daba a leer libros de caballerías, con tanta afición y gusto, que olvidó casi de todo punto el ejercicio de la caza, y aun la administración de su hacienda. Y llegó a tanto su curiosidad y desatino en esto, que vendió muchas hanegas de tierra de sembradura para comprar libros de caballerías en que leer, y así, llevó a su casa todos cuantos pudo haber dellos; y de todos, ningunos le parecían tan bien como los que compuso el famoso Feliciano de Silva, porque la claridad de su prosa y aquellas entricadas razones suyas le parecían de perlas, y más cuando llegaba a leer aquellos requiebros y cartas de desafíos, donde en muchas partes hallaba escrito: La razón de la sinrazón que a mi razón se hace, de tal manera mi razón enflaquece, que con razón me quejo de la vuestra fermosura. Y también cuando leía: …los altos cielos que de vuestra divinidad divinamente con las estrellas os fortifican, y os hacen merecedora del merecimiento que merece la vuestra grandeza.&lt;/p&gt;
 &lt;p&gt;Con estas razones perdía el pobre caballero el juicio, y desvelábase por entenderlas y desentrañarles el sentido, que no se lo sacara ni las entendiera el mesmo Aristóteles, si resucitara para sólo ello. No estaba muy bien con las heridas que don Belianís daba y recebía, porque se imaginaba que, por grandes maestros que le hubiesen curado, no dejaría de tener el rostro y todo el cuerpo lleno de cicatrices y señales. Pero, con todo, alababa en su autor aquel acabar su libro con la promesa de aquella inacabable aventura, y muchas veces le vino deseo de tomar la pluma y dalle fin al pie de la letra, como allí se promete; y sin duda alguna lo hiciera, y aun saliera con ello, si otros mayores y continuos pensamientos no se lo estorbaran. Tuvo muchas veces competencia con el cura de su lugar -que era hombre docto, graduado en Sigüenza-, sobre cuál había sido mejor caballero: Palmerín de Ingalaterra o Amadís de Gaula; mas maese Nicolás, barbero del mesmo pueblo, decía que ninguno llegaba al Caballero del Febo, y que si alguno se le podía comparar, era don Galaor, hermano de Amadís de Gaula, porque tenía muy acomodada condición para todo; que no era caballero melindroso, ni tan llorón como su hermano, y que en lo de la valentía no le iba en zaga.&lt;/p&gt;
