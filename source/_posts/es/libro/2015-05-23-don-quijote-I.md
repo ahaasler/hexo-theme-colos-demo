@@ -2,7 +2,7 @@ title: "Don Quijote Capítulo I: Que trata de la condición y ejercicio del famo
 date: 2015-05-23 17:26:49
 tags:
 lang: es
-category: libro
+categories: [test, quijote]
 label: post-quixote-I
 ---
 
