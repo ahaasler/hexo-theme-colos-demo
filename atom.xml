@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A Hexo theme]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://colos.adrianhaasler.com/"/>
-  <updated>2015-09-13T13:34:12.000Z</updated>
+  <updated>2015-11-29T13:35:02.000Z</updated>
   <id>http://colos.adrianhaasler.com/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[JavaScript: Hello, World!]]></title>
-    <link href="http://colos.adrianhaasler.com/en/code/js-hello-world/"/>
-    <id>http://colos.adrianhaasler.com/en/code/js-hello-world/</id>
+    <link href="http://colos.adrianhaasler.com/en/code/code-2015-08-15-js-hello-world/"/>
+    <id>http://colos.adrianhaasler.com/en/code/code-2015-08-15-js-hello-world/</id>
     <published>2015-08-15T06:02:52.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">document</span>.write(<span class="string">'Hello, World!'</span>);</span><br></pre></td></tr></table></figure>
 ]]></content>
     <summary type="html">
@@ -32,10 +32,10 @@
   
   <entry>
     <title><![CDATA[Groovy: Hello, World!]]></title>
-    <link href="http://colos.adrianhaasler.com/en/code/groovy-hello-world/"/>
-    <id>http://colos.adrianhaasler.com/en/code/groovy-hello-world/</id>
+    <link href="http://colos.adrianhaasler.com/en/code/code-2015-08-01-groovy-hello-world/"/>
+    <id>http://colos.adrianhaasler.com/en/code/code-2015-08-01-groovy-hello-world/</id>
     <published>2015-08-01T20:03:12.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<figure class="highlight groovy"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">println <span class="string">"Hello, World!"</span></span><br></pre></td></tr></table></figure>
 ]]></content>
     <summary type="html">
@@ -48,10 +48,10 @@
   
   <entry>
     <title><![CDATA[Ruby: Hello, World!]]></title>
-    <link href="http://colos.adrianhaasler.com/en/code/ruby-hello-world/"/>
-    <id>http://colos.adrianhaasler.com/en/code/ruby-hello-world/</id>
+    <link href="http://colos.adrianhaasler.com/en/code/code-2015-08-01-ruby-hello-world/"/>
+    <id>http://colos.adrianhaasler.com/en/code/code-2015-08-01-ruby-hello-world/</id>
     <published>2015-08-01T15:44:39.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">puts <span class="string">'Hello, World!'</span></span><br></pre></td></tr></table></figure>
 ]]></content>
     <summary type="html">
@@ -64,10 +64,10 @@
   
   <entry>
     <title><![CDATA[Bash: Hello, World!]]></title>
-    <link href="http://colos.adrianhaasler.com/en/code/bash-hello-world/"/>
-    <id>http://colos.adrianhaasler.com/en/code/bash-hello-world/</id>
+    <link href="http://colos.adrianhaasler.com/en/code/code-2015-08-01-bash-hello-world/"/>
+    <id>http://colos.adrianhaasler.com/en/code/code-2015-08-01-bash-hello-world/</id>
     <published>2015-08-01T14:45:03.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="shebang">#!/bin/bash</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">"Hello, World!"</span></span><br></pre></td></tr></table></figure>
 ]]></content>
     <summary type="html">
@@ -80,10 +80,10 @@
   
   <entry>
     <title><![CDATA[Java: Hello, World!]]></title>
-    <link href="http://colos.adrianhaasler.com/en/code/java-hello-world/"/>
-    <id>http://colos.adrianhaasler.com/en/code/java-hello-world/</id>
+    <link href="http://colos.adrianhaasler.com/en/code/code-2015-08-01-java-hello-world/"/>
+    <id>http://colos.adrianhaasler.com/en/code/code-2015-08-01-java-hello-world/</id>
     <published>2015-08-01T14:31:55.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span> </span>&#123;</span><br><span class="line"></span><br><span class="line">	<span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">		System.out.println(<span class="string">"Hello, World!"</span>);</span><br><span class="line">	&#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 ]]></content>
     <summary type="html">
@@ -96,10 +96,10 @@
   
   <entry>
     <title><![CDATA[Don Quixote Chapter IV: Of what happened to our knight when he left the inn]]></title>
-    <link href="http://colos.adrianhaasler.com/en/book/don-quixote-IV/"/>
-    <id>http://colos.adrianhaasler.com/en/book/don-quixote-IV/</id>
+    <link href="http://colos.adrianhaasler.com/en/book/book-2015-05-26-don-quixote-IV/"/>
+    <id>http://colos.adrianhaasler.com/en/book/book-2015-05-26-don-quixote-IV/</id>
     <published>2015-05-26T19:22:41.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<p>Day was dawning when Don Quixote quitted the inn, so happy, so gay, so exhilarated at finding himself now dubbed a knight, that his joy was like to burst his horse-girths. However, recalling the advice of his host as to the requisites he ought to carry with him, especially that referring to money and shirts, he determined to go home and provide himself with all, and also with a squire, for he reckoned upon securing a farm-labourer, a neighbour of his, a poor man with a family, but very well qualified for the office of squire to a knight. With this object he turned his horse’s head towards his village, and Rocinante, thus reminded of his old quarters, stepped out so briskly that he hardly seemed to tread the earth.</p>
 <p>He had not gone far, when out of a thicket on his right there seemed to come feeble cries as of some one in distress, and the instant he heard them he exclaimed, “Thanks be to heaven for the favour it accords me, that it so soon offers me an opportunity of fulfilling the obligation I have undertaken, and gathering the fruit of my ambition. These cries, no doubt, come from some man or woman in want of help, and needing my aid and protection;” and wheeling, he turned Rocinante in the direction whence the cries seemed to proceed. He had gone but a few paces into the wood, when he saw a mare tied to an oak, and tied to another, and stripped from the waist upwards, a youth of about fifteen years of age, from whom the cries came. Nor were they without cause, for a lusty farmer was flogging him with a belt and following up every blow with scoldings and commands, repeating, “Your mouth shut and your eyes open!” while the youth made answer, “I won’t do it again, master mine; by God’s passion I won’t do it again, and I’ll take more care of the flock another time.”</p>
 <p>Seeing what was going on, Don Quixote said in an angry voice, “Discourteous knight, it ill becomes you to assail one who cannot defend himself; mount your steed and take your lance” (for there was a lance leaning against the oak to which the mare was tied), “and I will make you know that you are behaving as a coward.” The farmer, seeing before him this figure in full armour brandishing a lance over his head, gave himself up for dead, and made answer meekly, “Sir Knight, this youth that I am chastising is my servant, employed by me to watch a flock of sheep that I have hard by, and he is so careless that I lose one every day, and when I punish him for his carelessness and knavery he says I do it out of niggardliness, to escape paying him the wages I owe him, and before God, and on my soul, he lies.”</p>
@@ -140,10 +140,10 @@
   
   <entry>
     <title><![CDATA[Don Quixote Chapter III: Wherein is related the droll way in which Don Quixote had himself dubbed a knight]]></title>
-    <link href="http://colos.adrianhaasler.com/en/book/don-quixote-III/"/>
-    <id>http://colos.adrianhaasler.com/en/book/don-quixote-III/</id>
+    <link href="http://colos.adrianhaasler.com/en/book/book-2015-05-25-don-quixote-III/"/>
+    <id>http://colos.adrianhaasler.com/en/book/book-2015-05-25-don-quixote-III/</id>
     <published>2015-05-25T23:04:50.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<p>Harassed by this reflection, he made haste with his scanty pothouse supper, and having finished it called the landlord, and shutting himself into the stable with him, fell on his knees before him, saying, “From this spot I rise not, valiant knight, until your courtesy grants me the boon I seek, one that will redound to your praise and the benefit of the human race.” The landlord, seeing his guest at his feet and hearing a speech of this kind, stood staring at him in bewilderment, not knowing what to do or say, and entreating him to rise, but all to no purpose until he had agreed to grant the boon demanded of him. “I looked for no less, my lord, from your High Magnificence,” replied Don Quixote, “and I have to tell you that the boon I have asked and your liberality has granted is that you shall dub me knight to-morrow morning, and that to-night I shall watch my arms in the chapel of this your castle; thus tomorrow, as I have said, will be accomplished what I so much desire, enabling me lawfully to roam through all the four quarters of the world seeking adventures on behalf of those in distress, as is the duty of chivalry and of knights-errant like myself, whose ambition is directed to such deeds.”</p>
 <p>The landlord, who, as has been mentioned, was something of a wag, and had already some suspicion of his guest’s want of wits, was quite convinced of it on hearing talk of this kind from him, and to make sport for the night he determined to fall in with his humour. So he told him he was quite right in pursuing the object he had in view, and that such a motive was natural and becoming in cavaliers as distinguished as he seemed and his gallant bearing showed him to be; and that he himself in his younger days had followed the same honourable calling, roaming in quest of adventures in various parts of the world, among others the Curing-grounds of Malaga, the Isles of Riaran, the Precinct of Seville, the Little Market of Segovia, the Olivera of Valencia, the Rondilla of Granada, the Strand of San Lucar, the Colt of Cordova, the Taverns of Toledo, and divers other quarters, where he had proved the nimbleness of his feet and the lightness of his fingers, doing many wrongs, cheating many widows, ruining maids and swindling minors, and, in short, bringing himself under the notice of almost every tribunal and court of justice in Spain; until at last he had retired to this castle of his, where he was living upon his property and upon that of others; and where he received all knights-errant of whatever rank or condition they might be, all for the great love he bore them and that they might share their substance with him in return for his benevolence. He told him, moreover, that in this castle of his there was no chapel in which he could watch his armour, as it had been pulled down in order to be rebuilt, but that in a case of necessity it might, he knew, be watched anywhere, and he might watch it that night in a courtyard of the castle, and in the morning, God willing, the requisite ceremonies might be performed so as to have him dubbed a knight, and so thoroughly dubbed that nobody could be more so. He asked if he had any money with him, to which Don Quixote replied that he had not a farthing, as in the histories of knights-errant he had never read of any of them carrying any. On this point the landlord told him he was mistaken; for, though not recorded in the histories, because in the author’s opinion there was no need to mention anything so obvious and necessary as money and clean shirts, it was not to be supposed therefore that they did not carry them, and he might regard it as certain and established that all knights-errant (about whom there were so many full and unimpeachable books) carried well-furnished purses in case of emergency, and likewise carried shirts and a little box of ointment to cure the wounds they received. For in those plains and deserts where they engaged in combat and came out wounded, it was not always that there was some one to cure them, unless indeed they had for a friend some sage magician to succour them at once by fetching through the air upon a cloud some damsel or dwarf with a vial of water of such virtue that by tasting one drop of it they were cured of their hurts and wounds in an instant and left as sound as if they had not received any damage whatever. But in case this should not occur, the knights of old took care to see that their squires were provided with money and other requisites, such as lint and ointments for healing purposes; and when it happened that knights had no squires (which was rarely and seldom the case) they themselves carried everything in cunning saddle-bags that were hardly seen on the horse’s croup, as if it were something else of more importance, because, unless for some such reason, carrying saddle-bags was not very favourably regarded among knights-errant. He therefore advised him (and, as his godson so soon to be, he might even command him) never from that time forth to travel without money and the usual requirements, and he would find the advantage of them when he least expected it.</p>
 <p>Don Quixote promised to follow his advice scrupulously, and it was arranged forthwith that he should watch his armour in a large yard at one side of the inn; so, collecting it all together, Don Quixote placed it on a trough that stood by the side of a well, and bracing his buckler on his arm he grasped his lance and began with a stately air to march up and down in front of the trough, and as he began his march night began to fall.</p>
@@ -164,10 +164,10 @@
   
   <entry>
     <title><![CDATA[Don Quixote Chapter II: Which treats of the first sally the ingenious Don Quixote made from home]]></title>
-    <link href="http://colos.adrianhaasler.com/en/book/don-quixote-II/"/>
-    <id>http://colos.adrianhaasler.com/en/book/don-quixote-II/</id>
+    <link href="http://colos.adrianhaasler.com/en/book/book-2015-05-24-don-quixote-II/"/>
+    <id>http://colos.adrianhaasler.com/en/book/book-2015-05-24-don-quixote-II/</id>
     <published>2015-05-24T12:28:33.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<p>These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge. So, without giving notice of his intention to anyone, and without anybody seeing him, one morning before the dawning of the day (which was one of the hottest of the month of July) he donned his suit of armour, mounted Rocinante with his patched-up helmet on, braced his buckler, took his lance, and by the back door of the yard sallied forth upon the plain in the highest contentment and satisfaction at seeing with what ease he had made a beginning with his grand purpose. But scarcely did he find himself upon the open plain, when a terrible thought struck him, one all but enough to make him abandon the enterprise at the very outset. It occurred to him that he had not been dubbed a knight, and that according to the law of chivalry he neither could nor ought to bear arms against any knight; and that even if he had been, still he ought, as a novice knight, to wear white armour, without a device upon the shield until by his prowess he had earned one. These reflections made him waver in his purpose, but his craze being stronger than any reasoning, he made up his mind to have himself dubbed a knight by the first one he came across, following the example of others in the same case, as he had read in the books that brought him to this pass. As for white armour, he resolved, on the first opportunity, to scour his until it was whiter than an ermine; and so comforting himself he pursued his way, taking that which his horse chose, for in this he believed lay the essence of adventures.</p>
 <p>Thus setting out, our new-fledged adventurer paced along, talking to himself and saying, “Who knows but that in time to come, when the veracious history of my famous deeds is made known, the sage who writes it, when he has to set forth my first sally in the early morning, will do it after this fashion? ‘Scarce had the rubicund Apollo spread o’er the face of the broad spacious earth the golden threads of his bright hair, scarce had the little birds of painted plumage attuned their notes to hail with dulcet and mellifluous harmony the coming of the rosy Dawn, that, deserting the soft couch of her jealous spouse, was appearing to mortals at the gates and balconies of the Manchegan horizon, when the renowned knight Don Quixote of La Mancha, quitting the lazy down, mounted his celebrated steed Rocinante and began to traverse the ancient and famous Campo de Montiel;’” which in fact he was actually traversing. “Happy the age, happy the time,” he continued, “in which shall be made known my deeds of fame, worthy to be moulded in brass, carved in marble, limned in pictures, for a memorial for ever. And thou, O sage magician, whoever thou art, to whom it shall fall to be the chronicler of this wondrous history, forget not, I entreat thee, my good Rocinante, the constant companion of my ways and wanderings.” Presently he broke out again, as if he were love-stricken in earnest, “O Princess Dulcinea, lady of this captive heart, a grievous wrong hast thou done me to drive me forth with scorn, and with inexorable obduracy banish me from the presence of thy beauty. O lady, deign to hold in remembrance this heart, thy vassal, that thus in anguish pines for love of thee.”</p>
 <p>So he went on stringing together these and other absurdities, all in the style of those his books had taught him, imitating their language as well as he could; and all the while he rode so slowly and the sun mounted so rapidly and with such fervour that it was enough to melt his brains if he had any. Nearly all day he travelled without anything remarkable happening to him, at which he was in despair, for he was anxious to encounter some one at once upon whom to try the might of his strong arm.</p>
@@ -193,10 +193,10 @@
   
   <entry>
     <title><![CDATA[Don Quixote Chapter I: Which treats of the character and pursuits of the famous gentleman Don Quixote de la Mancha]]></title>
-    <link href="http://colos.adrianhaasler.com/en/book/don-quixote-I/"/>
-    <id>http://colos.adrianhaasler.com/en/book/don-quixote-I/</id>
+    <link href="http://colos.adrianhaasler.com/en/book/book-2015-05-23-don-quixote-I/"/>
+    <id>http://colos.adrianhaasler.com/en/book/book-2015-05-23-don-quixote-I/</id>
     <published>2015-05-23T17:28:41.000Z</published>
-    <updated>2015-09-13T13:34:12.000Z</updated>
+    <updated>2015-11-29T13:35:02.000Z</updated>
     <content type="html"><![CDATA[<p>In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays and a pigeon or so extra on Sundays, made away with three-quarters of his income. The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman. They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana. This, however, is of but little importance to our tale; it will be enough not to stray a hair’s breadth from the truth in the telling of it.</p>
 <p>You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get. But of all there were none he liked so well as those of the famous Feliciano de Silva’s composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like “the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;” or again, “the high heavens, that of your divinity divinely fortify you with the stars, render you deserving of the desert your greatness deserves.” Over conceits of this sort the poor gentleman lost his wits, and used to lie awake striving to understand them and worm the meaning out of them; what Aristotle himself could not have made out or extracted had he come to life again for that special purpose. He was not at all easy about the wounds which Don Belianis gave and took, because it seemed to him that, great as were the surgeons who had cured him, he must have had his face and body covered all over with seams and scars. He commended, however, the author’s way of ending his book with the promise of that interminable adventure, and many a time was he tempted to take up his pen and finish it properly as is there proposed, which no doubt he would have done, and made a successful piece of work of it too, had not greater and more absorbing thoughts prevented him.</p>
 <p>Many an argument did he have with the curate of his village (a learned man, and a graduate of Sigüenza) as to which had been the better knight, Palmerin of England or Amadis of Gaul. Master Nicholas, the village barber, however, used to say that neither of them came up to the Knight of Phoebus, and that if there was any that could compare with him it was Don Galaor, the brother of Amadis of Gaul, because he had a spirit that was equal to every occasion, and was no finikin knight, nor lachrymose like his brother, while in the matter of valour he was not a whit behind him. In short, he became so absorbed in his books that he spent his nights from sunset to sunrise, and his days from dawn to dark, poring over them; and what with little sleep and much reading his brains got so dry that he lost his wits. His fancy grew full of what he used to read about in his books, enchantments, quarrels, battles, challenges, wounds, wooings, loves, agonies, and all sorts of impossible nonsense; and it so possessed his mind that the whole fabric of invention and fancy he read of was true, that to him no history in the world had more reality in it. He used to say the Cid Ruy Diaz was a very good knight, but that he was not to be compared with the Knight of the Burning Sword who with one back-stroke cut in half two fierce and monstrous giants. He thought more of Bernardo del Carpio because at Roncesvalles he slew Roland in spite of enchantments, availing himself of the artifice of Hercules when he strangled Antaeus the son of Terra in his arms. He approved highly of the giant Morgante, because, although of the giant breed which is always arrogant and ill-conditioned, he alone was affable and well-bred. But above all he admired Reinaldos of Montalban, especially when he saw him sallying forth from his castle and robbing everyone he met, and when beyond the seas he stole that image of Mahomet which, as his history says, was entirely of gold. To have a bout of kicking at that traitor of a Ganelon he would have given his housekeeper, and his niece into the bargain.</p>
