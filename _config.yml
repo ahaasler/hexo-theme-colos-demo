@@ -8,18 +8,15 @@ subtitle: A Hexo theme
 description:
 author: Adrian Haasler
 email: dev@adrianhaasler.com
-language:
-  - en
-  - es
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://colos.adrianhaasler.com
 root: /
-permalink: :lang/:category/:title/
+permalink: :category/:title/
 permalink_defaults:
-  lang: en
   category: uncategorized
 
 # Directory
@@ -33,7 +30,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :lang/:category/:year-:month-:day-:title.md # File name of new posts
+new_post_name: :category/:year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
