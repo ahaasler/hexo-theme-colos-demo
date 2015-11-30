@@ -13,7 +13,6 @@
     "hexo-generator-feed": "^1.0.3",
     "hexo-generator-index": "^0.2.0",
     "hexo-generator-tag": "^0.1.0",
-    "hexo-multilingual": "^0.3.0",
     "hexo-pagination": "0.0.2",
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-marked": "^0.2.4",
