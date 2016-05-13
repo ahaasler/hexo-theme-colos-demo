@@ -1,4 +1,6 @@
 # hexo-theme-colos-demo
-Demo site for the colos theme
 
-You can see a multiple language demo in http://colos-multi.adrianhaasler.com/.
+No longer in this repo.
+
+Demo project: https://github.com/ahaasler/hexo-theme-colos/tree/develop/test/demo
+Live demo: https://ahaasler.github.io/hexo-theme-colos/
